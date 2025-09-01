@@ -12,7 +12,7 @@
 
 ## PocketBase <!-- omit in toc -->
 
-- [Quick start](#quick-start)
+- [Quickstart](#quickstart)
 - [API SDK clients](#api-sdk-clients)
 - [Overview](#overview)
   - [Use as standalone app](#use-as-standalone-app)
@@ -35,7 +35,7 @@
 > Please keep in mind that PocketBase is still under active development
 > and therefore full backward compatibility is not guaranteed before reaching v1.0.0.
 
-## Quick start
+## Quickstart
 
 ```bash
 # Download the latest prebuilt executable matching your platform
@@ -50,11 +50,6 @@ curl -s https://api.github.com/repos/pocketbase/pocketbase/releases/latest \
 
 # Run the server
 ./pocketbase serve
-
-## Optionally
-mkdir pocketbase_project
-mv pocketbase pocketbase_project/
-
 ```
 
 ## API SDK clients
